@@ -30,9 +30,7 @@ I am a Information System Engineer and a Software Developer. (Also a weeb at hea
 
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 
-- **Anime List**:
 
-[![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff)](https://myanimelist.net/animelist/Section4617)
 ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Redyar-Hassan-Muhammad&show_icons=true&theme=github_dark&border_color=30363f)
 <!---
