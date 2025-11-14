@@ -34,7 +34,7 @@ I am a Information System Engineer and a Software Developer. (Also a weeb at hea
 
 [![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff)](https://myanimelist.net/animelist/Section4617)
 ### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SECT19N&show_icons=true&theme=github_dark&border_color=30363f)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Redyar-Hassan-Muhammad&show_icons=true&theme=github_dark&border_color=30363f)
 <!---
 Redyar-Hassan-Muhammad/Redyar-Hassan-Muhammad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
